@@ -1,10 +1,16 @@
 # FASTJOBS
 In this repository I have created 5 API's as said in the document.
 
+# Enter the Mongose details 
+```bash
+Add a variable named MONGO_URI with your MongoDb details
+```
+
 # Steps to start the node server
 ```
 npm install
 npm run server
+
 ```
 
 # Postman view of POST route “/api/pet” to add pets from an excel file

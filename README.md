@@ -3,7 +3,7 @@ In this repository I have created 5 API's as said in the document.
 
 # Enter the Mongose details 
 ```bash
-Add a variable named MONGO_URI with your MongoDb details
+Add a variable named MONGO_URI in "/backend/config/db.js" with your MongoDb details
 ```
 
 # Steps to start the node server

@@ -9,7 +9,7 @@ npm run server
 
 # Postman view of POST route “/api/pet” to add pets from an excel file
 ```
-![Snapshot of Postman](./public/static%20files%20for%20Readme.md/POSTVIEW.png)
+![POSTVIEW.png](./public/POSTVIEW.png)
 ```
 
 # Tools and libraries used

@@ -1,5 +1,5 @@
 # FASTJOBS
-In this repository I have created 5 API's as said in the document.
+In this repository I have created 5 API's as said in the document. You can find the relevant details below:
 
 # Enter the Mongose details 
 ```bash
